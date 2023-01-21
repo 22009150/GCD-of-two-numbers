@@ -9,10 +9,10 @@ To write a program to find the GCD of two numbers using function.
 
 ## Algorithm:
 ```
-1. Define a function.
-2. Get the two numbers from the user.
-3. Compare the two values, to find the smaller number.
-4. Use for() and if() loop to find the GCD of the two numbers.
+step1: Define a function.
+step2: Get the two numbers from the user.
+step3: Compare the two values, to find the smaller number.
+step4: Use for() and if() loop to find the GCD of the two numbers.
 ```
 ## Program:
 ```
@@ -31,7 +31,8 @@ def gcd():
 ```
 
 ## Output:
-![gcd](https://user-images.githubusercontent.com/118708624/210583725-b44d2848-e860-45ec-8d7b-0ac6127017cf.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/118708624/213877687-f48853cc-5315-4934-8819-5e141032bca4.png)
+
 
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
